@@ -10,7 +10,7 @@ How to generate the traces:
         * Run the client side script with the path to the trace file
 
 How to generate the plots:
-        * Use the plotter.py script in the root directory. Run it without any arguments to get the usage instructions.
+        * Use the plotter.py script in the root directory. Run it without any arguments to get the usage instructions
                 $ python3 plotter.py
 
 Dependencies:
