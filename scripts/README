@@ -1,0 +1,12 @@
+How to run:
+        1. Server side:
+                * Run the appropriate initialization script
+                * Run server.sh
+                * Run cleanup.sh
+        2. Client side:
+                * Run client.sh
+
+References:
+        * https://www.youtube.com/watch?v=ginVUfYgUOk
+        * https://www.cs.princeton.edu/courses/archive/fall17/cos561/assignments/TCP/runiperf.html
+        * Various man pages
