@@ -1,10 +1,10 @@
 How to run:
         1. Server side:
-                * Run the appropriate initialization script
                 * Run server.sh
-                * Run cleanup.sh
         2. Client side:
+                * Run the appropriate initialization script
                 * Run client.sh
+                * Run cleanup.sh
 
 How to generate the traces:
         * Run the client side script with the path to the trace file
