@@ -6,6 +6,17 @@ How to run:
         2. Client side:
                 * Run client.sh
 
+How to generate the traces:
+        * Run the client side script with the path to the trace file
+
+How to generate the plots:
+        * Use the plotter.py script in the root directory. Run it without any arguments to get the usage instructions.
+                $ python3 plotter.py
+
+Dependencies:
+        * iperf3
+        * matplotlib
+
 References:
         * https://www.youtube.com/watch?v=ginVUfYgUOk
         * https://www.cs.princeton.edu/courses/archive/fall17/cos561/assignments/TCP/runiperf.html
